@@ -16,10 +16,10 @@ public class Main {
          */
         System.out.println("    Задача 1");
 
-        String firsName = "Ivan";
+        String firstName = "Ivan";
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
-        String fullName = lastName + " " + firsName + " " + middleName;
+        String fullName = lastName + " " + firstName + " " + middleName;
 
         System.out.printf("Ф. И. О. сотрудника — %s. %n", fullName);
         System.out.println();
